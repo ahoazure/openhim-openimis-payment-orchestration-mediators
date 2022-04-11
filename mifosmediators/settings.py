@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'mainconfigs',
     'rest_framework',
     'patient_mediator',
+    'group_mediator',
+    'invoice_mediator',
+    'organization_mediator',
     'import_export',
 ]
 
